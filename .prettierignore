@@ -1,0 +1,6 @@
+build/
+coverage/
+logs/
+public/
+node_modules/
+*.md
