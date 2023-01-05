@@ -23,5 +23,5 @@ async function run() {
   run();
 }
 
-filelog('BOT_DB_BACKUP_RUN');
+filelog('BOT_DB_BACKUP_START');
 run();

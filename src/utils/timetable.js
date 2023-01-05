@@ -1,6 +1,6 @@
 import moment from 'moment';
 
-export default async function timetable(wakeupTimeMillis, workDurationMillis) {
+export default function timetable(wakeupTimeMillis, workDurationMillis) {
   const maxDurationMillis = 24 * 60 * 60 * 1000;
   workDurationMillis = Math.min(workDurationMillis, maxDurationMillis);
 

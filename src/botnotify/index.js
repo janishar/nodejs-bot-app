@@ -23,5 +23,5 @@ async function run() {
   run();
 }
 
-filelog('BOT_NOTIFY_RUN');
+filelog('BOT_NOTIFY_START');
 run();

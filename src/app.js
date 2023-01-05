@@ -10,8 +10,6 @@ process.on('uncaughtException', (e) => {
 
 async function run() {
   debug('Main: Doing Task...');
-  await sleep(4000);
-  run();
 }
 
 function launchBot(name) {
@@ -28,7 +26,8 @@ function launchBot(name) {
     );
   }
 }
-filelog('BOT_APP_RUN');
+
+filelog('BOT_APP_START');
 
 launchBot('botnotify');
 launchBot('botbackup');
