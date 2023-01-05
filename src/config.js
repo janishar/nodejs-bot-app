@@ -10,3 +10,5 @@ export const bot1Operation = {
 export const logging = {
   file: process.env.FILE_LOG_ENABLED === true,
 };
+
+export const isdev = environment === 'development';
