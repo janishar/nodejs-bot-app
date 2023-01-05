@@ -30,7 +30,7 @@ function launchBot(name) {
 }
 filelog('BOT_APP_RUN');
 
-launchBot('botlike');
+launchBot('botnotify');
 launchBot('botbackup');
 
 run();

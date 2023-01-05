@@ -9,7 +9,7 @@ if (!fs.existsSync(logdir)) fs.mkdirSync(logdir);
 
 export default async function filelog(...message) {
   try {
-    if (!logging) return;
+    if (!logging.file) return;
     if (message.length === 0) return;
     message.unshift(moment().format());
     message.push('\n');
