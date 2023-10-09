@@ -39,19 +39,18 @@ Use this program to create bots for automating the daily and repetitive tasks
 ```
 
 # About The Author
-I [Janishar Ali](https://janisharali.com) have 10 years of experience in tech industry working for top companies. I enjoy sharing my learnings with the community. You can connect with me here:
+You can connect with me here:
 * [Twitter](https://twitter.com/janisharali)
+* [YouTube Channel](https://www.youtube.com/@unusualcode)
 * [LinkedIn](https://www.linkedin.com/in/janishar-ali)
 * [Instagram](https://www.instagram.com/janisharali)
-
-[Learn from My YouTube Channel](https://www.youtube.com/@janisharali)
 
 ### Find this project useful ? :heart:
 * Support it by clicking the :star: button on the upper right of this page. :v:
 
 ### License
 ```
-   Copyright (C) 2022 JANISHAR ALI ANWAR
+   Copyright (C) 2023 JANISHAR ALI ANWAR
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
